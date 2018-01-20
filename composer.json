@@ -1,7 +1,7 @@
 {
     "name": "ltxlong/one-blog",
     "description": "a simple develop blog framework for php",
-    "type": "php blog framework",
+    "type": "php-blog-framework",
     "license": "Apache-2.0",
     "authors": [
         {
